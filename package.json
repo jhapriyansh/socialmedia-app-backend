@@ -8,8 +8,6 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "author": "Rajvir Singh",
-  "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cloudinary": "^2.5.1",
